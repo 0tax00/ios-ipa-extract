@@ -11,9 +11,7 @@ This tool provides a streamlined method to extract iOS applications from jailbro
 
 ### System Requirements
 - Linux/macOS/Unix system
-- Bash shell
 - `sshpass` utility installed
-- Network access to target iOS device
 
 ### Target Device Requirements
 - Jailbroken iOS device
